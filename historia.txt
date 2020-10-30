@@ -3,3 +3,6 @@ Esta es la historia de Aldo Cesar
 Aldo Cesar tiene 24 años y nació en Mexico
 
 Mañana lo veremos programar a mas profundidad desarrollo web.
+
+Por ahora esta entendiendo a profundidad como funciona la terminal de comandos.
+
