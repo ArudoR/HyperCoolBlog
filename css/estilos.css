@@ -1,20 +1,27 @@
 body
 {
-    color:blue;
+    background: #1e1f24;
+    color:rgb(218, 218, 218);
     text-align: center;
-    font-family: "Arial";
+    font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 #cabecera
 {
-    background: #33A;
+    background: #0e278a;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 5);
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
@@ -27,9 +34,9 @@ body
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
-    border: 1px solid #000;
+    border: 1px solid #DDD;
     margin: 0 auto;
 }
 
@@ -37,8 +44,14 @@ body
 {
     font-size: 20px;
 }
-
 #post
 {
-    padding: 1em;
+	padding:1em;
+}
+#footer
+{
+	background: #008000;
+	color: white;
+	Text-align: center;
+	padding: 0.5em;
 }
